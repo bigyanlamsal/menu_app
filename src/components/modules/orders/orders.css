@@ -1,0 +1,41 @@
+.showOrders{
+  cursor: pointer;
+  font-size: 24px;
+}
+
+.ordersContainer{
+  margin: 24px 0px;
+}
+
+.orderItem{
+  margin: 16px 30px;
+  
+}
+
+.noOrders{
+  text-align: center;
+}
+
+.listContainer{
+  background-color: rgb(188, 219, 255);
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.row:last-child {
+  border-bottom: none;
+}
+
+.row{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 1px solid gray;
+  padding-bottom: 8px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.billAmount{
+  padding-right: 10px;
+}

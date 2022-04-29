@@ -1,0 +1,9 @@
+.mainContainer {
+  /* min-height: 100vw; */
+  background-image: linear-gradient(to right, #5289ff , #b8ceff);
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  padding: 32px 0px;
+  font-family:cursive;
+}

@@ -1,0 +1,6 @@
+.cartContainer{
+  position: fixed;
+  bottom: 0;
+  height: 10rem;
+  background-color: white;
+}
