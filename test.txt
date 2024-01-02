@@ -1,1 +1,1 @@
-Git commit successfull
+Git commit successfully not completed
